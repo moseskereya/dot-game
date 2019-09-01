@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dot-game/static/css/main.a124168b.chunk.css",
+    "main.js": "/dot-game/static/js/main.11972b26.chunk.js",
+    "main.js.map": "/dot-game/static/js/main.11972b26.chunk.js.map",
+    "runtime~main.js": "/dot-game/static/js/runtime~main.79c82d89.js",
+    "runtime~main.js.map": "/dot-game/static/js/runtime~main.79c82d89.js.map",
+    "static/js/2.30f65a4d.chunk.js": "/dot-game/static/js/2.30f65a4d.chunk.js",
+    "static/js/2.30f65a4d.chunk.js.map": "/dot-game/static/js/2.30f65a4d.chunk.js.map",
+    "index.html": "/dot-game/index.html",
+    "precache-manifest.3db2240838bf131b21920b8a01320314.js": "/dot-game/precache-manifest.3db2240838bf131b21920b8a01320314.js",
+    "service-worker.js": "/dot-game/service-worker.js",
+    "static/css/main.a124168b.chunk.css.map": "/dot-game/static/css/main.a124168b.chunk.css.map"
+  }
+}
